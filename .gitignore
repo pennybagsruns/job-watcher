@@ -1,3 +1,5 @@
 __pycache__/
 # half-written day folder left behind if fetch.py is interrupted
 data/raw/*.tmp/
+# half-written history.csv / status.json if build.py or status.py is interrupted
+data/*.tmp
