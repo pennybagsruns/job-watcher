@@ -1,0 +1,3 @@
+__pycache__/
+# half-written day folder left behind if fetch.py is interrupted
+data/raw/*.tmp/
