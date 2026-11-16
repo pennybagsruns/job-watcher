@@ -28,7 +28,7 @@ SOURCES = [
     {"name": "Morgan Stanley", "tier": "reach", "ats": "workday",
      "tenant": "ms", "hosts": ["ms.wd5.myworkdayjobs.com"], "site": "External"},
     {"name": "JPMorganChase", "tier": "reach", "ats": "oracle",
-     "host": "jpmc.fa.oraclecloud.com", "site": "CX_1001", "keyword": ""},
+     "host": "jpmc.fa.oraclecloud.com", "site": "CX_1001", "keyword": "analyst"},
     {"name": "Houlihan Lokey (Campus)", "tier": "reach", "ats": "workday",
      "tenant": "hl", "hosts": ["hl.wd1.myworkdayjobs.com"], "site": "Campus"},
     {"name": "Houlihan Lokey (Lateral)", "tier": "reach", "ats": "workday",
