@@ -1,24 +1,24 @@
 {
   "date": "2026-11-16",
-  "run_at": "2026-11-16T18:20:33+00:00",
+  "run_at": "2026-11-16T18:41:30+00:00",
   "results": [
     {
       "name": "Morgan Stanley",
       "slug": "morgan_stanley",
       "ats": "workday",
       "ok": true,
-      "count": 1169,
+      "count": 1170,
       "error": null,
-      "seconds": 81.4
+      "seconds": 76.1
     },
     {
       "name": "JPMorganChase",
       "slug": "jpmorganchase",
       "ats": "oracle",
       "ok": true,
-      "count": 996,
+      "count": 994,
       "error": null,
-      "seconds": 60.5
+      "seconds": 52.9
     },
     {
       "name": "Houlihan Lokey (Campus)",
@@ -27,7 +27,7 @@
       "ok": true,
       "count": 51,
       "error": null,
-      "seconds": 3.7
+      "seconds": 3.1
     },
     {
       "name": "Houlihan Lokey (Lateral)",
@@ -36,43 +36,43 @@
       "ok": true,
       "count": 92,
       "error": null,
-      "seconds": 7.0
+      "seconds": 4.9
     },
     {
       "name": "Fidelity Investments",
       "slug": "fidelity_investments",
       "ats": "workday",
       "ok": true,
-      "count": 892,
+      "count": 887,
       "error": null,
-      "seconds": 66.3
+      "seconds": 49.3
     },
     {
       "name": "Northern Trust",
       "slug": "northern_trust",
       "ats": "workday",
       "ok": true,
-      "count": 648,
+      "count": 647,
       "error": null,
-      "seconds": 44.4
+      "seconds": 32.8
     },
     {
       "name": "Raymond James",
       "slug": "raymond_james",
       "ats": "workday",
       "ok": true,
-      "count": 300,
+      "count": 298,
       "error": null,
-      "seconds": 21.1
+      "seconds": 17.4
     },
     {
       "name": "Wells Fargo",
       "slug": "wells_fargo",
       "ats": "workday",
       "ok": true,
-      "count": 1300,
+      "count": 1291,
       "error": null,
-      "seconds": 98.0
+      "seconds": 84.4
     },
     {
       "name": "Texas Capital",
@@ -81,7 +81,7 @@
       "ok": true,
       "count": 105,
       "error": null,
-      "seconds": 6.4
+      "seconds": 5.0
     },
     {
       "name": "Mercer Advisors",
@@ -90,7 +90,7 @@
       "ok": true,
       "count": 87,
       "error": null,
-      "seconds": 0.5
+      "seconds": 0.0
     },
     {
       "name": "Brighton Jones",
@@ -99,16 +99,16 @@
       "ok": true,
       "count": 44,
       "error": null,
-      "seconds": 2.7
+      "seconds": 0.7
     },
     {
       "name": "Capital One",
       "slug": "capital_one",
       "ats": "workday",
       "ok": true,
-      "count": 2071,
+      "count": 2069,
       "error": null,
-      "seconds": 76.6
+      "seconds": 64.1
     },
     {
       "name": "Walmart",
@@ -117,7 +117,7 @@
       "ok": true,
       "count": 2000,
       "error": null,
-      "seconds": 158.3
+      "seconds": 141.0
     },
     {
       "name": "Tyson Foods",
@@ -126,16 +126,16 @@
       "ok": true,
       "count": 725,
       "error": null,
-      "seconds": 58.6
+      "seconds": 43.5
     },
     {
       "name": "J.B. Hunt",
       "slug": "j_b_hunt",
       "ats": "workday",
       "ok": true,
-      "count": 437,
+      "count": 438,
       "error": null,
-      "seconds": 28.5
+      "seconds": 24.6
     },
     {
       "name": "Ameriprise Financial",
@@ -144,7 +144,7 @@
       "ok": true,
       "count": 214,
       "error": null,
-      "seconds": 15.9
+      "seconds": 15.3
     },
     {
       "name": "Allworth Financial",
@@ -153,7 +153,7 @@
       "ok": true,
       "count": 19,
       "error": null,
-      "seconds": 0.4
+      "seconds": 0.0
     },
     {
       "name": "Farther",
@@ -162,16 +162,16 @@
       "ok": true,
       "count": 40,
       "error": null,
-      "seconds": 0.1
+      "seconds": 0.0
     },
     {
       "name": "Bellwether",
       "slug": "bellwether",
       "ats": "lever",
       "ok": true,
-      "count": 9,
+      "count": 10,
       "error": null,
-      "seconds": 34.4
+      "seconds": 0.9
     }
   ]
 }
