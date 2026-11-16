@@ -1,0 +1,105 @@
+{
+  "run_time": "2026-11-16T19:19:14Z",
+  "first_run_date": "2026-11-16",
+  "days_with_success": 1,
+  "open": 11181,
+  "new_today": 0,
+  "removed_today": 0,
+  "sources": [
+    {
+      "name": "Morgan Stanley",
+      "ok": true,
+      "count": 1170
+    },
+    {
+      "name": "JPMorganChase",
+      "ok": true,
+      "count": 994
+    },
+    {
+      "name": "Houlihan Lokey (Campus)",
+      "ok": true,
+      "count": 51
+    },
+    {
+      "name": "Houlihan Lokey (Lateral)",
+      "ok": true,
+      "count": 92
+    },
+    {
+      "name": "Fidelity Investments",
+      "ok": true,
+      "count": 887
+    },
+    {
+      "name": "Northern Trust",
+      "ok": true,
+      "count": 647
+    },
+    {
+      "name": "Raymond James",
+      "ok": true,
+      "count": 298
+    },
+    {
+      "name": "Wells Fargo",
+      "ok": true,
+      "count": 1291
+    },
+    {
+      "name": "Texas Capital",
+      "ok": true,
+      "count": 105
+    },
+    {
+      "name": "Mercer Advisors",
+      "ok": true,
+      "count": 87
+    },
+    {
+      "name": "Brighton Jones",
+      "ok": true,
+      "count": 44
+    },
+    {
+      "name": "Capital One",
+      "ok": true,
+      "count": 2069
+    },
+    {
+      "name": "Walmart",
+      "ok": true,
+      "count": 2000
+    },
+    {
+      "name": "Tyson Foods",
+      "ok": true,
+      "count": 725
+    },
+    {
+      "name": "J.B. Hunt",
+      "ok": true,
+      "count": 438
+    },
+    {
+      "name": "Ameriprise Financial",
+      "ok": true,
+      "count": 214
+    },
+    {
+      "name": "Allworth Financial",
+      "ok": true,
+      "count": 19
+    },
+    {
+      "name": "Farther",
+      "ok": true,
+      "count": 40
+    },
+    {
+      "name": "Bellwether",
+      "ok": true,
+      "count": 10
+    }
+  ]
+}
