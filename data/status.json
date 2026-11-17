@@ -1,20 +1,20 @@
 {
-  "run_time": "2026-11-16T19:19:14Z",
+  "run_time": "2026-11-17T21:57:42Z",
   "first_run_date": "2026-11-16",
-  "days_with_success": 1,
-  "open": 11181,
-  "new_today": 0,
-  "removed_today": 0,
+  "days_with_success": 2,
+  "open": 11366,
+  "new_today": 785,
+  "removed_today": 600,
   "sources": [
     {
       "name": "Morgan Stanley",
       "ok": true,
-      "count": 1170
+      "count": 1156
     },
     {
       "name": "JPMorganChase",
       "ok": true,
-      "count": 994
+      "count": 997
     },
     {
       "name": "Houlihan Lokey (Campus)",
@@ -29,32 +29,32 @@
     {
       "name": "Fidelity Investments",
       "ok": true,
-      "count": 887
+      "count": 882
     },
     {
       "name": "Northern Trust",
       "ok": true,
-      "count": 647
+      "count": 662
     },
     {
       "name": "Raymond James",
       "ok": true,
-      "count": 298
+      "count": 300
     },
     {
       "name": "Wells Fargo",
       "ok": true,
-      "count": 1291
+      "count": 1412
     },
     {
       "name": "Texas Capital",
       "ok": true,
-      "count": 105
+      "count": 109
     },
     {
       "name": "Mercer Advisors",
       "ok": true,
-      "count": 87
+      "count": 92
     },
     {
       "name": "Brighton Jones",
@@ -64,7 +64,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "count": 2069
+      "count": 2072
     },
     {
       "name": "Walmart",
@@ -74,17 +74,17 @@
     {
       "name": "Tyson Foods",
       "ok": true,
-      "count": 725
+      "count": 769
     },
     {
       "name": "J.B. Hunt",
       "ok": true,
-      "count": 438
+      "count": 442
     },
     {
       "name": "Ameriprise Financial",
       "ok": true,
-      "count": 214
+      "count": 222
     },
     {
       "name": "Allworth Financial",
@@ -94,12 +94,12 @@
     {
       "name": "Farther",
       "ok": true,
-      "count": 40
+      "count": 39
     },
     {
       "name": "Bellwether",
       "ok": true,
-      "count": 10
+      "count": 6
     }
   ]
 }
