@@ -1,25 +1,25 @@
 {
-  "run_time": "2026-11-17T21:57:42Z",
+  "run_time": "2026-11-18T21:38:07Z",
   "first_run_date": "2026-11-16",
-  "days_with_success": 2,
-  "open": 11366,
-  "new_today": 785,
-  "removed_today": 600,
+  "days_with_success": 3,
+  "open": 11397,
+  "new_today": 475,
+  "removed_today": 478,
   "sources": [
     {
       "name": "Morgan Stanley",
       "ok": true,
-      "count": 1156
+      "count": 1158
     },
     {
       "name": "JPMorganChase",
       "ok": true,
-      "count": 997
+      "count": 992
     },
     {
       "name": "Houlihan Lokey (Campus)",
       "ok": true,
-      "count": 51
+      "count": 48
     },
     {
       "name": "Houlihan Lokey (Lateral)",
@@ -29,42 +29,42 @@
     {
       "name": "Fidelity Investments",
       "ok": true,
-      "count": 882
+      "count": 898
     },
     {
       "name": "Northern Trust",
       "ok": true,
-      "count": 662
+      "count": 673
     },
     {
       "name": "Raymond James",
       "ok": true,
-      "count": 300
+      "count": 298
     },
     {
       "name": "Wells Fargo",
       "ok": true,
-      "count": 1412
+      "count": 1476
     },
     {
       "name": "Texas Capital",
       "ok": true,
-      "count": 109
+      "count": 105
     },
     {
       "name": "Mercer Advisors",
       "ok": true,
-      "count": 92
+      "count": 90
     },
     {
       "name": "Brighton Jones",
       "ok": true,
-      "count": 44
+      "count": 45
     },
     {
       "name": "Capital One",
       "ok": true,
-      "count": 2072
+      "count": 2062
     },
     {
       "name": "Walmart",
@@ -74,17 +74,17 @@
     {
       "name": "Tyson Foods",
       "ok": true,
-      "count": 769
+      "count": 744
     },
     {
       "name": "J.B. Hunt",
       "ok": true,
-      "count": 442
+      "count": 439
     },
     {
       "name": "Ameriprise Financial",
       "ok": true,
-      "count": 222
+      "count": 214
     },
     {
       "name": "Allworth Financial",
@@ -99,7 +99,7 @@
     {
       "name": "Bellwether",
       "ok": true,
-      "count": 6
+      "count": 5
     }
   ]
 }
