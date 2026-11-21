@@ -1,10 +1,10 @@
 {
-  "run_time": "2026-11-20T21:20:13Z",
+  "run_time": "2026-11-21T20:17:43Z",
   "first_run_date": "2026-11-16",
-  "days_with_success": 5,
-  "open": 11439,
-  "new_today": 475,
-  "removed_today": 569,
+  "days_with_success": 6,
+  "open": 11365,
+  "new_today": 122,
+  "removed_today": 220,
   "sources": [
     {
       "name": "Morgan Stanley",
@@ -14,12 +14,12 @@
     {
       "name": "JPMorganChase",
       "ok": true,
-      "count": 973
+      "count": 968
     },
     {
       "name": "Houlihan Lokey (Campus)",
       "ok": true,
-      "count": 48
+      "count": 49
     },
     {
       "name": "Houlihan Lokey (Lateral)",
@@ -29,42 +29,42 @@
     {
       "name": "Fidelity Investments",
       "ok": true,
-      "count": 888
+      "count": 879
     },
     {
       "name": "Northern Trust",
       "ok": true,
-      "count": 653
+      "count": 650
     },
     {
       "name": "Raymond James",
       "ok": true,
-      "count": 305
+      "count": 306
     },
     {
       "name": "Wells Fargo",
       "ok": true,
-      "count": 1586
+      "count": 1540
     },
     {
       "name": "Texas Capital",
       "ok": true,
-      "count": 99
+      "count": 102
     },
     {
       "name": "Mercer Advisors",
       "ok": true,
-      "count": 89
+      "count": 96
     },
     {
       "name": "Brighton Jones",
       "ok": true,
-      "count": 44
+      "count": 43
     },
     {
       "name": "Capital One",
       "ok": true,
-      "count": 2052
+      "count": 2051
     },
     {
       "name": "Walmart",
@@ -74,7 +74,7 @@
     {
       "name": "Tyson Foods",
       "ok": true,
-      "count": 765
+      "count": 745
     },
     {
       "name": "J.B. Hunt",
@@ -84,7 +84,7 @@
     {
       "name": "Ameriprise Financial",
       "ok": true,
-      "count": 212
+      "count": 211
     },
     {
       "name": "Allworth Financial",

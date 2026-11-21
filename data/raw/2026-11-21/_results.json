@@ -1,0 +1,177 @@
+{
+  "date": "2026-11-21",
+  "run_at": "2026-11-21T20:07:46+00:00",
+  "results": [
+    {
+      "name": "Morgan Stanley",
+      "slug": "morgan_stanley",
+      "ats": "workday",
+      "ok": true,
+      "count": 1144,
+      "error": null,
+      "seconds": 63.1
+    },
+    {
+      "name": "JPMorganChase",
+      "slug": "jpmorganchase",
+      "ats": "oracle",
+      "ok": true,
+      "count": 968,
+      "error": null,
+      "seconds": 49.7
+    },
+    {
+      "name": "Houlihan Lokey (Campus)",
+      "slug": "houlihan_lokey_campus",
+      "ats": "workday",
+      "ok": true,
+      "count": 49,
+      "error": null,
+      "seconds": 3.1
+    },
+    {
+      "name": "Houlihan Lokey (Lateral)",
+      "slug": "houlihan_lokey_lateral",
+      "ats": "workday",
+      "ok": true,
+      "count": 92,
+      "error": null,
+      "seconds": 4.9
+    },
+    {
+      "name": "Fidelity Investments",
+      "slug": "fidelity_investments",
+      "ats": "workday",
+      "ok": true,
+      "count": 879,
+      "error": null,
+      "seconds": 47.2
+    },
+    {
+      "name": "Northern Trust",
+      "slug": "northern_trust",
+      "ats": "workday",
+      "ok": true,
+      "count": 650,
+      "error": null,
+      "seconds": 28.4
+    },
+    {
+      "name": "Raymond James",
+      "slug": "raymond_james",
+      "ats": "workday",
+      "ok": true,
+      "count": 306,
+      "error": null,
+      "seconds": 14.9
+    },
+    {
+      "name": "Wells Fargo",
+      "slug": "wells_fargo",
+      "ats": "workday",
+      "ok": true,
+      "count": 1540,
+      "error": null,
+      "seconds": 90.5
+    },
+    {
+      "name": "Texas Capital",
+      "slug": "texas_capital",
+      "ats": "workday",
+      "ok": true,
+      "count": 102,
+      "error": null,
+      "seconds": 4.7
+    },
+    {
+      "name": "Mercer Advisors",
+      "slug": "mercer_advisors",
+      "ats": "greenhouse",
+      "ok": true,
+      "count": 96,
+      "error": null,
+      "seconds": 0.1
+    },
+    {
+      "name": "Brighton Jones",
+      "slug": "brighton_jones",
+      "ats": "lever",
+      "ok": true,
+      "count": 43,
+      "error": null,
+      "seconds": 0.8
+    },
+    {
+      "name": "Capital One",
+      "slug": "capital_one",
+      "ats": "workday",
+      "ok": true,
+      "count": 2051,
+      "error": null,
+      "seconds": 61.3
+    },
+    {
+      "name": "Walmart",
+      "slug": "walmart",
+      "ats": "workday",
+      "ok": true,
+      "count": 2000,
+      "error": null,
+      "seconds": 144.5
+    },
+    {
+      "name": "Tyson Foods",
+      "slug": "tyson_foods",
+      "ats": "workday",
+      "ok": true,
+      "count": 745,
+      "error": null,
+      "seconds": 39.4
+    },
+    {
+      "name": "J.B. Hunt",
+      "slug": "j_b_hunt",
+      "ats": "workday",
+      "ok": true,
+      "count": 425,
+      "error": null,
+      "seconds": 27.9
+    },
+    {
+      "name": "Ameriprise Financial",
+      "slug": "ameriprise_financial",
+      "ats": "workday",
+      "ok": true,
+      "count": 211,
+      "error": null,
+      "seconds": 11.6
+    },
+    {
+      "name": "Allworth Financial",
+      "slug": "allworth_financial",
+      "ats": "greenhouse",
+      "ok": true,
+      "count": 20,
+      "error": null,
+      "seconds": 0.1
+    },
+    {
+      "name": "Farther",
+      "slug": "farther",
+      "ats": "greenhouse",
+      "ok": true,
+      "count": 39,
+      "error": null,
+      "seconds": 0.0
+    },
+    {
+      "name": "Bellwether",
+      "slug": "bellwether",
+      "ats": "lever",
+      "ok": true,
+      "count": 5,
+      "error": null,
+      "seconds": 0.6
+    }
+  ]
+}
