@@ -1,55 +1,55 @@
 {
-  "run_time": "2026-11-24T01:05:29Z",
+  "run_time": "2026-11-24T23:12:42Z",
   "first_run_date": "2026-11-16",
   "days_with_success": 8,
-  "open": 11295,
-  "new_today": 495,
-  "removed_today": 563,
+  "open": 11360,
+  "new_today": 885,
+  "removed_today": 934,
   "sources": [
     {
       "name": "Morgan Stanley",
       "ok": true,
-      "count": 1138
+      "count": 1129
     },
     {
       "name": "JPMorganChase",
       "ok": true,
-      "count": 969
+      "count": 979
     },
     {
       "name": "Houlihan Lokey (Campus)",
       "ok": true,
-      "count": 49
+      "count": 50
     },
     {
       "name": "Houlihan Lokey (Lateral)",
       "ok": true,
-      "count": 93
+      "count": 92
     },
     {
       "name": "Fidelity Investments",
       "ok": true,
-      "count": 874
+      "count": 870
     },
     {
       "name": "Northern Trust",
       "ok": true,
-      "count": 658
+      "count": 664
     },
     {
       "name": "Raymond James",
       "ok": true,
-      "count": 307
+      "count": 304
     },
     {
       "name": "Wells Fargo",
       "ok": true,
-      "count": 1484
+      "count": 1535
     },
     {
       "name": "Texas Capital",
       "ok": true,
-      "count": 105
+      "count": 109
     },
     {
       "name": "Mercer Advisors",
@@ -59,12 +59,12 @@
     {
       "name": "Brighton Jones",
       "ok": true,
-      "count": 41
+      "count": 40
     },
     {
       "name": "Capital One",
       "ok": true,
-      "count": 2048
+      "count": 2062
     },
     {
       "name": "Walmart",
@@ -74,27 +74,27 @@
     {
       "name": "Tyson Foods",
       "ok": true,
-      "count": 748
+      "count": 753
     },
     {
       "name": "J.B. Hunt",
       "ok": true,
-      "count": 416
+      "count": 408
     },
     {
       "name": "Ameriprise Financial",
       "ok": true,
-      "count": 206
+      "count": 207
     },
     {
       "name": "Allworth Financial",
       "ok": true,
-      "count": 19
+      "count": 20
     },
     {
       "name": "Farther",
       "ok": true,
-      "count": 39
+      "count": 37
     },
     {
       "name": "Bellwether",
